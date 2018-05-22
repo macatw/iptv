@@ -391,6 +391,8 @@ http://p4.giffy.be:8080/live/noeyes/noeyes/49788.ts
 http://p4.giffy.be:8080/live/noeyes/noeyes/49669.ts
 #EXTINF:-1,AR | LDC
 http://p4.giffy.be:8080/live/noeyes/noeyes/49787.ts
+#EXTINF:-1,AR tvg-shift="+1"| LDC ts
+http://p4.giffy.be:8080/live/noeyes/noeyes/49787.ts
 #EXTINF:-1,AR | LIBYA 218
 http://p4.giffy.be:8080/live/noeyes/noeyes/49668.ts
 #EXTINF:-1,AR | LIBYA 24
